@@ -1,7 +1,7 @@
 body{
-    background-color: #A020F0;
+    background: linear-gradient(purple, black) no-repeat center center fixed;
     color: white;
-    font-family:"Comic Sans MS";
+    font-family:"Comic Sans MS";  
 }
 
 a{
